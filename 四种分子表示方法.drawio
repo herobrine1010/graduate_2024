@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T09:34:14.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.1.17" etag="tST51JhoxSQtiyR535EQ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T03:03:46.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0q1d-GpOZ9yWuMISbtYD" version="22.1.17" type="github">
   <diagram name="第 1 页" id="PWEogvMdFrCLfYnfxERQ">
-    <mxGraphModel>
+    <mxGraphModel dx="724" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zZuqtN_dc_kTO4mA-Ipr-1" value="分子表示方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zZuqtN_dc_kTO4mA-Ipr-2" value="线性表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zZuqtN_dc_kTO4mA-Ipr-3" value="化学结构表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zZuqtN_dc_kTO4mA-Ipr-4" value="基于特征工程的表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zZuqtN_dc_kTO4mA-Ipr-5" value="基于表示学习的表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
