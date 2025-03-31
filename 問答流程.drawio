@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-78" target="V9nqlXCoNzKhv72pdfjE-80">
+          <mxGeometry x="0.0053" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="1360" width="180" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="jH9_K3VRiRtCquy0PlLt-88" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="240" width="750" height="380" as="geometry" />
         </mxCell>
@@ -300,7 +308,7 @@
           <mxGeometry x="260" y="980" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jH9_K3VRiRtCquy0PlLt-99" value="自然语言提问" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="840" width="80" height="30" as="geometry" />
+          <mxGeometry x="70" y="862" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jH9_K3VRiRtCquy0PlLt-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jH9_K3VRiRtCquy0PlLt-100" target="jH9_K3VRiRtCquy0PlLt-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -577,13 +585,186 @@
           <mxGeometry x="1527.42" y="1060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V9nqlXCoNzKhv72pdfjE-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1450" width="23" height="30" as="geometry" />
+          <mxGeometry x="2510" y="1390" width="23" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V9nqlXCoNzKhv72pdfjE-2" value="“对比AGM-129和RGM-109E，这两款导弹有什么关系？”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="1450" width="180" height="30" as="geometry" />
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-2" target="V9nqlXCoNzKhv72pdfjE-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V9nqlXCoNzKhv72pdfjE-3" value="&lt;b&gt;用户提问&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1531" y="1480" width="60" height="30" as="geometry" />
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;“对比AGM-129和RGM-109E，这两款导弹有什么关系？”&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2535" y="1390" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-3" value="&lt;span&gt;用户提问&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2595" y="1420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1675" y="1548.67" as="sourcePoint" />
+            <mxPoint x="1745" y="1549.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-5" value="实体&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;识别&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1745" y="1526.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-37" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;标准名称&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="1499" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-38" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;同义词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2191" y="1499" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-39" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;&#39;AGM-129 ACM&#39;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="1519" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-40" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;[&#39;AGM-129&#39;,&#39;AGM129&#39;,&#39;AGM-129A&#39;]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2191" y="1519" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-41" target="V9nqlXCoNzKhv72pdfjE-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-41" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;&#39;RGM-109E TLAM-E&#39;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="1539" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-42" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;[&#39;RGM109E&#39;,&#39;RGM-109E&#39;,&#39;TLAM-E&#39;]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2191" y="1539" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-43" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;&#39;导弹&#39;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="1559" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-44" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;[&#39;飞弹&#39;]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2191" y="1559" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-45" value="&lt;font face=&quot;LXGW WenKai Mono TC&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="1579" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-46" value="&lt;font face=&quot;LXGW WenKai Mono TC&quot;&gt;......&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2191" y="1579" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-47" value="同义词表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2221" y="1599" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=32.5;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-49" target="V9nqlXCoNzKhv72pdfjE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-51" value="词法分析能力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V9nqlXCoNzKhv72pdfjE-50">
+          <mxGeometry x="-0.033" y="1" relative="1" as="geometry">
+            <mxPoint x="-36" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-49" value="大语言模型" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#FFCE9F;strokeColor=#E09A66;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1610" width="75" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-52" target="V9nqlXCoNzKhv72pdfjE-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-52" value="实体对齐" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1998" y="1624" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-55" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;E&lt;sub&gt;0&amp;nbsp;&lt;/sub&gt;=&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;{&#39;AGM-129&#39;,&lt;/span&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&#39;RGM-109E&#39;,&#39;导弹&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&#39;关系&#39;,....}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1513" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-57" value="识别结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1562" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1815" y="1548.5800000000002" as="sourcePoint" />
+            <mxPoint x="1850" y="1549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="V9nqlXCoNzKhv72pdfjE-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="1548.5800000000002" as="sourcePoint" />
+            <mxPoint x="2025" y="1549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-64" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;E&lt;sub&gt;1&amp;nbsp;&lt;/sub&gt;=&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;{&#39;AGM-129 ACM&#39;,&lt;/span&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&#39;RGM-109E TLAM-E&#39;,&#39;导弹&#39;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="1622" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-68" value="有效对齐结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1810.75" y="1665" width="88.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-70" value="子问题生成" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1708" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-71" value="停用词检测" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="1370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-72" value="文本清理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="1410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-75" value="拼写校正" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="1370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-77" value="句子重写" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="1410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-79" value="&lt;span&gt;问题预处理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2830" y="1446" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-80" target="V9nqlXCoNzKhv72pdfjE-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-80" value="实体&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;识别&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1382.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-85" target="V9nqlXCoNzKhv72pdfjE-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-85" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;E&lt;sub&gt;0&amp;nbsp;&lt;/sub&gt;=&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;{&#39;AGM-129&#39;,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&#39;RGM-109E&#39;,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&#39;导弹&#39;,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&#39;关系&#39;,....}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="1487.5" width="170" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-86" value="识别结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3045" y="1532" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-91" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;标准名称&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1482" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-92" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;同义词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="1482" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-93" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;&#39;AGM-129 ACM&#39;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1502" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-94" target="V9nqlXCoNzKhv72pdfjE-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-94" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;[&#39;AGM-129&#39;,&#39;AGM129&#39;,&#39;AGM-129A&#39;]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="1502" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-95" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;&#39;RGM-109E TLAM-E&#39;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1522" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-96" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;[&#39;RGM109E&#39;,&#39;RGM-109E&#39;,&#39;TLAM-E&#39;]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="1522" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-97" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;&#39;导弹&#39;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1542" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-98" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;;&quot;&gt;[&#39;飞弹&#39;]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="1542" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-99" value="&lt;font face=&quot;LXGW WenKai Mono TC&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1562" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-100" value="&lt;font face=&quot;LXGW WenKai Mono TC&quot;&gt;......&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="1562" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-101" value="同义词表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2591" y="1577" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9nqlXCoNzKhv72pdfjE-102" target="V9nqlXCoNzKhv72pdfjE-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-102" value="实体对齐" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2860" y="1489.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-106" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;E&lt;sub&gt;1&amp;nbsp;&lt;/sub&gt;=&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;{&#39;AGM-129 ACM&#39;,&lt;/span&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&#39;RGM-109E TLAM-E&#39;,&#39;导弹&#39;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2995" y="1596" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-107" value="有效对齐结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3030.75" y="1639" width="88.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9nqlXCoNzKhv72pdfjE-109" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;Q = {&lt;br&gt;&amp;nbsp; &amp;nbsp;&#39;AGM-129 ACM和RGM-109E TLAM-E存在哪些直接关联？&#39;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;LXGW WenKai Mono TC&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;,&lt;/span&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&amp;nbsp; &amp;nbsp;&#39;...存在哪些多跳联系？&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&amp;nbsp; &amp;nbsp;&#39;...具有哪些同名属性？并比较它们的值的关系&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&amp;nbsp; &amp;nbsp; ...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=LXGW+WenKai+Mono+TC&quot; face=&quot;LXGW WenKai Mono TC&quot;&gt;&amp;nbsp; &amp;nbsp;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="1656" width="320" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
